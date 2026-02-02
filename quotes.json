@@ -81,9 +81,9 @@
       "date": "02-02-2026"
     },
     {
-      "author": "Hitesh Sir",
+      "author": "Shyamendra Hazra",
       "msg": "It's not about if you win or lose in the end, it's how fierce you play the game",
-      "author-is-admin": true,
+      "author-is-admin": false,
       "date": "02-02-2026"
     }
   ]
